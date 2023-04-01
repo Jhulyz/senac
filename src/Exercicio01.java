@@ -14,5 +14,4 @@ public class Exercicio01 {
 		 System.out.println(" O resultado da área retangular é " + resultado);
 
 	}
-
 }
